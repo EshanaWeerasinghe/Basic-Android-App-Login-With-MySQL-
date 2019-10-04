@@ -1,0 +1,1 @@
+Android application's method can use log in and register boath
